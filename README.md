@@ -1,7 +1,7 @@
 # jschallenger
 My own solution for jschallenger re
 
-*** 01.Ex
+**01. Exersice**
 
 <details>   
 <summary>This is a dropdown</summary>
